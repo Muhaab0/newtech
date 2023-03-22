@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/newtech/static/css/main.3a202976.css",
-    "main.js": "/newtech/static/js/main.c73b0af9.js",
-    "static/media/egyTecnologyVideo.mp4": "/newtech/static/media/egyTecnologyVideo.d0fe357d7d98651a813c.mp4",
+    "main.css": "/newtech/static/css/main.517ba66c.css",
+    "main.js": "/newtech/static/js/main.24f21e6c.js",
+    "static/media/HeroVideo.mp4": "/newtech/static/media/HeroVideo.8140bb3a4ea9eb467304.mp4",
     "static/media/Logo.jpg": "/newtech/static/media/Logo.e9dbb0cf077b5dbca594.jpg",
     "static/media/it-company.jpg": "/newtech/static/media/it-company.eb03bb876f10c33e2d97.jpg",
-    "static/media/companys.jpg": "/newtech/static/media/companys.2ffb32ea021a96d4895f.jpg",
     "static/media/Small-Business-IT-Support-Services-e1581368928499.jpg": "/newtech/static/media/Small-Business-IT-Support-Services-e1581368928499.60ca9ef555701ee830d0.jpg",
+    "static/media/Compane.jpg": "/newtech/static/media/Compane.9a17a102bb7bf04e62d3.jpg",
     "static/media/laptops.jpeg": "/newtech/static/media/laptops.3cfde66f87f93fbe1c7b.jpeg",
-    "static/media/servers.jpeg": "/newtech/static/media/servers.383f09c62e3befcc556e.jpeg",
     "index.html": "/newtech/index.html",
-    "main.3a202976.css.map": "/newtech/static/css/main.3a202976.css.map",
-    "main.c73b0af9.js.map": "/newtech/static/js/main.c73b0af9.js.map"
+    "main.517ba66c.css.map": "/newtech/static/css/main.517ba66c.css.map",
+    "main.24f21e6c.js.map": "/newtech/static/js/main.24f21e6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a202976.css",
-    "static/js/main.c73b0af9.js"
+    "static/css/main.517ba66c.css",
+    "static/js/main.24f21e6c.js"
   ]
 }
